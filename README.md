@@ -3,27 +3,27 @@
 ## Project Overview
 This project develops a credit scoring model for Small and Medium Enterprises (SMEs) in Kenya using machine learning and explainable AI techniques.
 
-## 🎯 Objectives
+##  Objectives
 - Build predictive models for SME credit risk assessment
 - Implement explainable AI for transparent decision-making
 - Create deployable API and dashboard for lenders
 
-## 📊 Dataset
+## Dataset
 - Simulated Kenyan SME transaction data
 - 1,000 SME records across various sectors and locations
 - Features include financial metrics, business characteristics, and banking behavior
 
-## 🏆 Best Model
+## Best Model
 - **Model**: Random Forest
 - **AUC Score**: 1.0000
 - **Accuracy**: 0.9900
 
-## 🚀 Quick Start
+## Quick Start
 1. Install requirements: `pip install -r requirements.txt`
 2. Run the model: `python credit_scoring.py`
 3. Access the dashboard: `python app.py`
 
-## 📁 Project Structure
+## Project Structure
 kenya-sme-credit/
 ├── models/ # Saved models
 ├── data/ # Dataset files
@@ -34,7 +34,7 @@ kenya-sme-credit/
 └── requirements.txt # Dependencies
 
 
-## 🔧 Key Features
+## Key Features
 - Multiple ML models (Random Forest, Gradient Boosting, Logistic Regression)
 - SHAP explainability for model interpretability
 - Bias and fairness analysis
