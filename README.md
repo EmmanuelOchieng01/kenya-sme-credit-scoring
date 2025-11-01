@@ -41,8 +41,8 @@ kenya-sme-credit/
 - API deployment ready
 - Interactive dashboard
 
-## 👥 Contributors
-- [Your Name/Team]
+##  Contributors
+Emmanuel Ochieng
 
-## 📄 License
+##  License
 MIT License
