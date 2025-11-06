@@ -1,8 +1,8 @@
 # Kenya SME Credit Scoring Model
 
 ## Problem Definition
-
-Most Kenyan SMEs struggle to access credit because lenders rely on collateral-based assessments and lack reliable data-driven tools to evaluate business risk. As a result, many viable businesses are denied funding, while lenders face uncertainty in loan decisions.
+ 
+Most Kenyan Small and Medium Enterprises (SMEs) struggle to access credit because lenders rely on collateral-based assessments and lack reliable data-driven tools to evaluate business risk. As a result, many viable businesses are denied funding, while lenders face uncertainty in loan decisions.
 
 This project solves that problem by building a machine learning–based credit scoring model that predicts SME creditworthiness using real financial and transactional data. It introduces explainable AI to ensure transparency and trust in every lending decision.
 
