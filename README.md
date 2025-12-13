@@ -1,4 +1,4 @@
-# Kenya SME Credit Scoring Model
+# Kenya Small and Medium Enterprises Credit Scoring Model
 
 ## Problem Definition
  
